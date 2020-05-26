@@ -159,7 +159,7 @@ for x in range(0,1):
     print(r)
     t={"deekshit","priya","shankar","siri"}
     a=t.difference(r)
-    #message(a)
+    message(a)
     if 'deekshit' in r:
         d=d+1
     if 'shankar' in r:
