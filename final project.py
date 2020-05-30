@@ -174,5 +174,4 @@ for x in range(0,1):
     print(si)
     iotplat(d,s,p,si)
 
-
 print("over")
